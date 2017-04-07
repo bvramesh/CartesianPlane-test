@@ -7,7 +7,7 @@
 
 ```bash
 #clone
-$ git clone https://github.com/venkataramesh12/Cartesian-Plane
+$ git clone https://github.com/venkataramesh12/CartesianPlane-test
 
 #change directory to app
 $ cd cartesian-plane
