@@ -1,5 +1,5 @@
 {
-  "name": "customer-spec",
+  "name": "cartesianplane-test",
   "scripts": {
     "clean": "rimraf dist",
     "build": "rimraf dist && webpack -p --bail --progress --profile",
